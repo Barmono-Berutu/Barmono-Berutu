@@ -49,7 +49,7 @@ I'm a passionate software developer focused on crafting robust backend systems a
 
 ## 📫 **How to Reach Me**  
 Feel free to connect with me for collaboration, questions, or just to say hi! 😊  
-- **LinkedIn:** [Barmono Berutu]([https://www.linkedin.com/in/barmono-berutu/](https://www.linkedin.com/in/barmono-berutu-751a95255/))  
+- **LinkedIn:** [Barmono Berutu](https://www.linkedin.com/in/barmono-berutu-751a95255/)  
 - **Email:** [barmonoberutu@gmail.com](mailto:barmonoberutu@gmail.com)  
 
 ---
